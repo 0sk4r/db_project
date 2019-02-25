@@ -1,0 +1,19 @@
+{"open": {"database": "projekt", "login": "app", "password": "projektdb"}}
+{"child": {"admin": 7, "passwd":"asd", "emp":0}}
+{"child": {"admin": 7, "passwd":"asdf", "emp":0}}
+{"child": {"admin": 12, "passwd":"asd", "emp":0}}
+{"child": {"admin": 7, "passwd":"asd", "emp":7}}
+{"parent": {"admin": 0, "passwd":"asd", "emp":1}}
+{"parent": {"admin": 0, "passwd":"asd", "emp":0}}
+{"ancestors": {"admin": 0, "passwd":"asd", "emp": 0}}
+{"ancestors": {"admin": 3, "passwd":"asd", "emp": 7}}
+{"descendants": {"admin": 0, "passwd":"asd", "emp":0}}
+{"descendants": {"admin": 0, "passwd":"asd", "emp":8}}
+{"read": {"admin": 1, "passwd": "asd", "emp":7}}
+{"update": {"admin": 1, "passwd": "asd", "emp":7, "newdata":"newdata"}}
+{"read": {"admin": 1, "passwd": "asd", "emp":7}}
+{"ancestor": {"admin": 0, "passwd": "asd", "emp1":1, "emp2": 7}}
+{"ancestor": {"admin": 0, "passwd": "asd", "emp1":7, "emp2": 1}}
+{"remove": {"admin":0, "passwd":"asd", "emp": 2}}
+{"descendants": {"admin": 0, "passwd":"asd", "emp":0}}
+{"child": {"admin": 0, "passwd":"asd", "emp":0}}

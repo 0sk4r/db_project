@@ -1,0 +1,3 @@
+{ "open": { "database": "projekt", "login": "app", "password": "projekt"}}
+{"descendants": {"admin": 0, "passwd":"asd", "emp":0}}
+{"ancestors": {"admin": 0, "passwd":"asd", "emp": 999}}
